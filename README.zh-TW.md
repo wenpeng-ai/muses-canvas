@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="./public/demo.mp4">
+  <a href="https://raw.githubusercontent.com/wenpeng-ai/muses-canvas/main/public/demo.mp4">
     <img src="./public/demo-preview.svg" alt="觀看 Muses Canvas 示範影片" width="960" />
   </a>
 </p>
