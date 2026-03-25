@@ -17,9 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/wenpeng-ai/muses-canvas/main/public/demo.mp4">
-    <img src="./public/demo-preview.svg" alt="Watch the Muses Canvas demo" width="960" />
-  </a>
+  <img src="./public/demo.gif" alt="Muses Canvas demo" width="960" />
+</p>
+
+<p align="center">
+  <img src="./public/demo.png" alt="Muses Canvas screenshot" width="960" />
 </p>
 
 ## Overview

@@ -17,9 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/wenpeng-ai/muses-canvas/main/public/demo.mp4">
-    <img src="./public/demo-preview.svg" alt="观看 Muses Canvas 演示视频" width="960" />
-  </a>
+  <img src="./public/demo.gif" alt="Muses Canvas 演示" width="960" />
+</p>
+
+<p align="center">
+  <img src="./public/demo.png" alt="Muses Canvas 截图" width="960" />
 </p>
 
 ## 项目简介
