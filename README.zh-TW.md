@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-  <video src="./public/demo.mp4" controls width="960"></video>
+  <a href="./public/demo.mp4">
+    <img src="./public/demo-preview.svg" alt="觀看 Muses Canvas 示範影片" width="960" />
+  </a>
 </p>
 
 ## 專案簡介

@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-  <video src="./public/demo.mp4" controls width="960"></video>
+  <a href="./public/demo.mp4">
+    <img src="./public/demo-preview.svg" alt="Muses Canvas のデモ動画を見る" width="960" />
+  </a>
 </p>
 
 ## 概要
